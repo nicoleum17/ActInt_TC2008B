@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 262ea272b8fbdab49b1b2359f3a86d3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3223550085613217671
+    second: Raumschiff_0
+  - first:
+      213: -7252175967488182156
+    second: Raumschiff_1
+  - first:
+      213: -4494392013871436139
+    second: Raumschiff_2
+  - first:
+      213: -6965217863389503781
+    second: Raumschiff_3
+  - first:
+      213: 8460696346757012457
+    second: Raumschiff_4
+  - first:
+      213: -8511315099292415160
+    second: Raumschiff_5
+  - first:
+      213: 8879140546749174445
+    second: Raumschiff_6
+  - first:
+      213: -3192883783950482618
+    second: Raumschiff_7
+  - first:
+      213: -4387514132708249678
+    second: Raumschiff_8
+  - first:
+      213: -9035242104381668206
+    second: Raumschiff_9
+  - first:
+      213: 803926883184032722
+    second: Raumschiff_10
+  - first:
+      213: 631649435393933377
+    second: Raumschiff_11
+  - first:
+      213: 4200903149696577123
+    second: Raumschiff_12
+  - first:
+      213: 382924741000691195
+    second: Raumschiff_13
+  - first:
+      213: -2474017938041659035
+    second: Raumschiff_14
+  - first:
+      213: -8527147247146381652
+    second: Raumschiff_15
+  - first:
+      213: -8826673374235489159
+    second: Raumschiff_16
+  - first:
+      213: -3943398793012958295
+    second: Raumschiff_17
+  - first:
+      213: -4178887275878794798
+    second: Raumschiff_18
+  - first:
+      213: 2841485429194769567
+    second: Raumschiff_19
+  - first:
+      213: -7476101999103230273
+    second: Raumschiff_20
+  - first:
+      213: 3797911008720156524
+    second: Raumschiff_21
+  - first:
+      213: -8711150349308487170
+    second: Raumschiff_22
+  - first:
+      213: 2896828782439983799
+    second: Raumschiff_23
+  - first:
+      213: -4831121357052214544
+    second: Raumschiff_24
+  - first:
+      213: 1119493130862227152
+    second: Raumschiff_25
+  - first:
+      213: -5842188356150361427
+    second: Raumschiff_26
+  - first:
+      213: -6717527602014371918
+    second: Raumschiff_27
+  - first:
+      213: -1053381932655153119
+    second: Raumschiff_28
+  - first:
+      213: 6744981616184556527
+    second: Raumschiff_29
+  - first:
+      213: -4033827789290352627
+    second: Raumschiff_30
+  - first:
+      213: -5037424183849426628
+    second: Raumschiff_31
+  - first:
+      213: -7283758303923905140
+    second: Raumschiff_32
+  - first:
+      213: 7398338578789975112
+    second: Raumschiff_33
+  - first:
+      213: -1377874503912710096
+    second: Raumschiff_34
+  - first:
+      213: 6465560209770972969
+    second: Raumschiff_35
+  - first:
+      213: 9197875729089643808
+    second: Raumschiff_36
+  - first:
+      213: 5052405878166395900
+    second: Raumschiff_37
+  - first:
+      213: 4426774075112269564
+    second: Raumschiff_38
+  - first:
+      213: 7941556414139241951
+    second: Raumschiff_39
+  - first:
+      213: 1830707268517700086
+    second: Raumschiff_40
+  - first:
+      213: -3375690968522413591
+    second: Raumschiff_41
+  - first:
+      213: -8747208606182999055
+    second: Raumschiff_42
+  - first:
+      213: -5407715122710063663
+    second: Raumschiff_43
+  - first:
+      213: -3959091659924460204
+    second: Raumschiff_44
+  - first:
+      213: 7116991167787081284
+    second: Raumschiff_45
+  - first:
+      213: 1982934985412395482
+    second: Raumschiff_46
+  - first:
+      213: -278036301634160125
+    second: Raumschiff_47
+  - first:
+      213: 3181420715349219244
+    second: Raumschiff_48
+  - first:
+      213: -6022588507692099783
+    second: Raumschiff_49
+  - first:
+      213: 2187650516400528613
+    second: Raumschiff_50
+  - first:
+      213: -7818577672113773549
+    second: Raumschiff_51
+  - first:
+      213: 6770318190381425333
+    second: Raumschiff_52
+  - first:
+      213: 8482224635453688952
+    second: Raumschiff_53
+  - first:
+      213: -1131665631846452624
+    second: Raumschiff_54
+  - first:
+      213: 8063773684207363978
+    second: Raumschiff_55
+  - first:
+      213: 1583990605866434536
+    second: Raumschiff_56
+  - first:
+      213: -2839982204188851265
+    second: Raumschiff_57
+  - first:
+      213: -6525859378209296994
+    second: Raumschiff_58
+  - first:
+      213: 2898938274358688889
+    second: Raumschiff_59
+  - first:
+      213: -6768797008221764206
+    second: Raumschiff_60
+  - first:
+      213: -5360664986211942342
+    second: Raumschiff_61
+  - first:
+      213: -6739201048293793767
+    second: Raumschiff_62
+  - first:
+      213: -3219370337027779388
+    second: Raumschiff_63
+  - first:
+      213: 7717406408405054114
+    second: Raumschiff_64
+  - first:
+      213: -8438047867104584643
+    second: Raumschiff_65
+  - first:
+      213: 6095282264854057700
+    second: Raumschiff_66
+  - first:
+      213: 2212336259100679485
+    second: Raumschiff_67
+  - first:
+      213: -2606722940161543360
+    second: Raumschiff_68
+  - first:
+      213: 1439113041720982994
+    second: Raumschiff_69
+  - first:
+      213: -1865743293201426586
+    second: Raumschiff_70
+  - first:
+      213: -5493939727938255543
+    second: Raumschiff_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Raumschiff_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1009
+        width: 194
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787e7a849b95cbc20800000000000000
+      internalID: 3223550085613217671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 865
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478fd3991681b5b90800000000000000
+      internalID: -7252175967488182156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1008
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e27d39646b0a1c0800000000000000
+      internalID: -4494392013871436139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_3
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1007
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde967da143965f90800000000000000
+      internalID: -6965217863389503781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_4
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1009
+        width: 194
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb95ec208e6a6570800000000000000
+      internalID: 8460696346757012457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_5
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 865
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bc147130cb1e980800000000000000
+      internalID: -8511315099292415160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_6
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1008
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da290c7984b093b70800000000000000
+      internalID: 8879140546749174445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_7
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1007
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643c6887d1990b3d0800000000000000
+      internalID: -3192883783950482618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_8
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1009
+        width: 194
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf2be0742b6c13c0800000000000000
+      internalID: -4387514132708249678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_9
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 865
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2948da44d2f5c9280800000000000000
+      internalID: -9035242104381668206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_10
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1008
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db3299ad3f182b00800000000000000
+      internalID: 803926883184032722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_11
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1007
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1404b3b90d114c800800000000000000
+      internalID: 631649435393933377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_12
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1009
+        width: 194
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eeb75482b9c4a30800000000000000
+      internalID: 4200903149696577123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_13
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 865
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdfd0be50c605500800000000000000
+      internalID: 382924741000691195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_14
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 1008
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56125131bc58aadd0800000000000000
+      internalID: -2474017938041659035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_15
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 1007
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caec36ae1cc79a980800000000000000
+      internalID: -8527147247146381652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 864
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c8b44f45b518580800000000000000
+      internalID: -8826673374235489159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 720
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab22c6d0bb3649c0800000000000000
+      internalID: -3943398793012958295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_18
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 863
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d938dcc92c9106c0800000000000000
+      internalID: -4178887275878794798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_19
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 721
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f944a9961fbfe6720800000000000000
+      internalID: 2841485429194769567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_20
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 864
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe3dd687dc8f3890800000000000000
+      internalID: -7476101999103230273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_21
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 720
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c677f43b0f3e4b430800000000000000
+      internalID: 3797911008720156524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_22
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 863
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9927439e6cb1780800000000000000
+      internalID: -8711150349308487170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_23
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 721
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba6678fd6a933820800000000000000
+      internalID: 2896828782439983799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_24
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 864
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2891ed8b864fcb0800000000000000
+      internalID: -4831121357052214544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_25
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 720
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de6889321d398f00800000000000000
+      internalID: 1119493130862227152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_26
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 863
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da20cb0b4a06ceea0800000000000000
+      internalID: -5842188356150361427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_27
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 721
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf3d09ac3c86c2a0800000000000000
+      internalID: -6717527602014371918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_28
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 864
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120764b96b2a161f0800000000000000
+      internalID: -1053381932655153119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_29
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 720
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb78312b0dfa9d50800000000000000
+      internalID: 6744981616184556527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_30
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 863
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00df3e6ff6f408c0800000000000000
+      internalID: -4033827789290352627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_31
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 721
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3161bae469771ab0800000000000000
+      internalID: -5037424183849426628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 719
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d50d0e964eaea90800000000000000
+      internalID: -7283758303923905140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_33
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 719
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84448d44dbd2ca660800000000000000
+      internalID: 7398338578789975112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_34
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 719
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0302731607ec0ece0800000000000000
+      internalID: -1377874503912710096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_35
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 719
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9278c4931c84ab950800000000000000
+      internalID: 6465560209770972969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 577
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02543904e3b65af70800000000000000
+      internalID: 9197875729089643808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_37
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 578
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb143d9060cd1640800000000000000
+      internalID: 5052405878166395900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_38
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 579
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6a9f7319f0f6d30800000000000000
+      internalID: 4426774075112269564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_39
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 577
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd59e748b73163e60800000000000000
+      internalID: 7941556414139241951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_40
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 578
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f129bbaf8af76910800000000000000
+      internalID: 1830707268517700086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_41
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 579
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e92ab503f22721d0800000000000000
+      internalID: -3375690968522413591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_42
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 577
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbf83c0e1cab9680800000000000000
+      internalID: -8747208606182999055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_43
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 578
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5db584fbfe3f4b0800000000000000
+      internalID: -5407715122710063663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_44
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 579
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dadf88c1b7e09c0800000000000000
+      internalID: -3959091659924460204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_45
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 577
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e9a8972c1a4c260800000000000000
+      internalID: 7116991167787081284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_46
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 578
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1433afcdcc48b10800000000000000
+      internalID: 1982934985412395482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_47
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 579
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30abe6ee477342cf0800000000000000
+      internalID: -278036301634160125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 433
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca79573e84da62c20800000000000000
+      internalID: 3181420715349219244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 289
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93799aa49a77b6ca0800000000000000
+      internalID: -6022588507692099783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_50
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 432
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecd0c2dd881c5e10800000000000000
+      internalID: 2187650516400528613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_51
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 431
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314abd42805de7390800000000000000
+      internalID: -7818577672113773549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_52
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 433
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2ec02068005fd50800000000000000
+      internalID: 6770318190381425333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_53
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 289
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cc84d7d5ae6b570800000000000000
+      internalID: 8482224635453688952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_54
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 432
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07236498a148b40f0800000000000000
+      internalID: -1131665631846452624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_55
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 431
+        width: 194
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87a25c217748ef60800000000000000
+      internalID: 8063773684207363978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_56
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 288
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef793e40177bf510800000000000000
+      internalID: 1583990605866434536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_57
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 144
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb384ee6b3b5698d0800000000000000
+      internalID: -2839982204188851265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_58
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 287
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9deea3987d7f65a0800000000000000
+      internalID: -6525859378209296994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_59
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 145
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cfee450091b3820800000000000000
+      internalID: 2898938274358688889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_60
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 288
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2950730dbf66012a0800000000000000
+      internalID: -6768797008221764206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_61
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 144
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3086f8d8971b95b0800000000000000
+      internalID: -5360664986211942342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_62
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 287
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91022863a5c8972a0800000000000000
+      internalID: -6739201048293793767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_63
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 145
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c497054cbf7253d0800000000000000
+      internalID: -3219370337027779388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_64
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a27e486d3cb91b60800000000000000
+      internalID: 7717406408405054114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_65
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 143
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c1d7beb2806ea80800000000000000
+      internalID: -8438047867104584643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_66
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e25d5afceac69450800000000000000
+      internalID: 6095282264854057700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_67
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d996f2b1cc3be10800000000000000
+      internalID: 2212336259100679485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_68
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 3
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0433fc30c4f03dbd0800000000000000
+      internalID: -2606722940161543360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_69
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd396bcfa1c8f310800000000000000
+      internalID: 1439113041720982994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_70
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66759a62c5c8b16e0800000000000000
+      internalID: -1865743293201426586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raumschiff_71
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 3
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94585d2fcea91c3b0800000000000000
+      internalID: -5493939727938255543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Raumschiff_0: 3223550085613217671
+      Raumschiff_1: -7252175967488182156
+      Raumschiff_10: 803926883184032722
+      Raumschiff_11: 631649435393933377
+      Raumschiff_12: 4200903149696577123
+      Raumschiff_13: 382924741000691195
+      Raumschiff_14: -2474017938041659035
+      Raumschiff_15: -8527147247146381652
+      Raumschiff_16: -8826673374235489159
+      Raumschiff_17: -3943398793012958295
+      Raumschiff_18: -4178887275878794798
+      Raumschiff_19: 2841485429194769567
+      Raumschiff_2: -4494392013871436139
+      Raumschiff_20: -7476101999103230273
+      Raumschiff_21: 3797911008720156524
+      Raumschiff_22: -8711150349308487170
+      Raumschiff_23: 2896828782439983799
+      Raumschiff_24: -4831121357052214544
+      Raumschiff_25: 1119493130862227152
+      Raumschiff_26: -5842188356150361427
+      Raumschiff_27: -6717527602014371918
+      Raumschiff_28: -1053381932655153119
+      Raumschiff_29: 6744981616184556527
+      Raumschiff_3: -6965217863389503781
+      Raumschiff_30: -4033827789290352627
+      Raumschiff_31: -5037424183849426628
+      Raumschiff_32: -7283758303923905140
+      Raumschiff_33: 7398338578789975112
+      Raumschiff_34: -1377874503912710096
+      Raumschiff_35: 6465560209770972969
+      Raumschiff_36: 9197875729089643808
+      Raumschiff_37: 5052405878166395900
+      Raumschiff_38: 4426774075112269564
+      Raumschiff_39: 7941556414139241951
+      Raumschiff_4: 8460696346757012457
+      Raumschiff_40: 1830707268517700086
+      Raumschiff_41: -3375690968522413591
+      Raumschiff_42: -8747208606182999055
+      Raumschiff_43: -5407715122710063663
+      Raumschiff_44: -3959091659924460204
+      Raumschiff_45: 7116991167787081284
+      Raumschiff_46: 1982934985412395482
+      Raumschiff_47: -278036301634160125
+      Raumschiff_48: 3181420715349219244
+      Raumschiff_49: -6022588507692099783
+      Raumschiff_5: -8511315099292415160
+      Raumschiff_50: 2187650516400528613
+      Raumschiff_51: -7818577672113773549
+      Raumschiff_52: 6770318190381425333
+      Raumschiff_53: 8482224635453688952
+      Raumschiff_54: -1131665631846452624
+      Raumschiff_55: 8063773684207363978
+      Raumschiff_56: 1583990605866434536
+      Raumschiff_57: -2839982204188851265
+      Raumschiff_58: -6525859378209296994
+      Raumschiff_59: 2898938274358688889
+      Raumschiff_6: 8879140546749174445
+      Raumschiff_60: -6768797008221764206
+      Raumschiff_61: -5360664986211942342
+      Raumschiff_62: -6739201048293793767
+      Raumschiff_63: -3219370337027779388
+      Raumschiff_64: 7717406408405054114
+      Raumschiff_65: -8438047867104584643
+      Raumschiff_66: 6095282264854057700
+      Raumschiff_67: 2212336259100679485
+      Raumschiff_68: -2606722940161543360
+      Raumschiff_69: 1439113041720982994
+      Raumschiff_7: -3192883783950482618
+      Raumschiff_70: -1865743293201426586
+      Raumschiff_71: -5493939727938255543
+      Raumschiff_8: -4387514132708249678
+      Raumschiff_9: -9035242104381668206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
