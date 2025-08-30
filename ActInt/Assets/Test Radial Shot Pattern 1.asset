@@ -17,8 +17,8 @@ MonoBehaviour:
   EndWait: 10
   PatternSettings:
   - NumberOfBullets: 8
-    BulletSpeed: 25
-    CooldownAfterShot: 0.8
-  - NumberOfBullets: 20
-    BulletSpeed: 15
-    CooldownAfterShot: 0.8
+    BulletSpeed: 10
+    CooldownAfterShot: 0.4
+  - NumberOfBullets: 50
+    BulletSpeed: 10
+    CooldownAfterShot: 0.4

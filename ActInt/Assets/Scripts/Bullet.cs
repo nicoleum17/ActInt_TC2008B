@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    private const float MAX_LIFE_TIME = 2f;
+    private const float MAX_LIFE_TIME = 1f;
     private float _lifeTime = 0f;
     public Vector2 Velocity;
 

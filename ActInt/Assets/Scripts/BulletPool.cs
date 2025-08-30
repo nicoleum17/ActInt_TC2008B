@@ -51,4 +51,15 @@ public class BulletPool : MonoBehaviour
         _bulletPool[_bulletPool.Count - 1].gameObject.SetActive(true);
         return _bulletPool[_bulletPool.Count - 1];
     }
+
+    public int GetActiveBulletCount(){
+        int count = 0;
+        for (int i = 0; i < _bulletPool.Count; i++){
+            if (_bulletPool[i].gameObject.activeSelf){
+                count++;
+            }
+        }
+        return count;
+    }
+
 }
