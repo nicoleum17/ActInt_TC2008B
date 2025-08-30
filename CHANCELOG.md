@@ -17,3 +17,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Get new scene and guns counter on screen (29/08/2025).
 - Possible spiral pattern added (29/08/2025).
 - Fix to be spiral a possibility (29/08/2025).
+- Change size pattern (29/08/2025).
