@@ -10,23 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7a47975c534f77c4c80e244cfcfc237b, type: 3}
-  m_Name: Test Radial Shot Pattern 1
+  m_Name: Test Radial Shot Pattern 3
   m_EditorClassIdentifier: Assembly-CSharp::RadialShotPattern
-  Repetitions: 12
-  StartWait: 0
+  Repetitions: 15
+  StartWait: 20
   EndWait: 20
   PatternSettings:
-  - NumberOfBullets: 8
+  - NumberOfBullets: 4
     BulletSpeed: 5
     CooldownAfterShot: 0.3
     Spiral: 0
     PhaseOffset: 0
     AngleOffset: 0
-    GrowOnSpawn: 0
-  - NumberOfBullets: 30
-    BulletSpeed: 10
-    CooldownAfterShot: 0.5
+    GrowOnSpawn: 1
+  - NumberOfBullets: 4
+    BulletSpeed: 5
+    CooldownAfterShot: 0.3
     Spiral: 0
-    PhaseOffset: 0
+    PhaseOffset: 0.5
     AngleOffset: 0
-    GrowOnSpawn: 0
+    GrowOnSpawn: 1

@@ -2,10 +2,11 @@ using UnityEngine;
 
 public static class ShotAttack 
 {
-    public static void SimpleShot (Vector2 origin, Vector2 velocity){
+    public static void SimpleShot (Vector2 origin, Vector2 velocity, bool growOnSpawn){
         Bullet bullet = BulletPool.Instance.RequestBullet();
         bullet.transform.position = origin;
         bullet.Velocity = velocity;
+        bullet.IsGrowing = growOnSpawn;
     }
 
     public static void RadialShot
@@ -21,7 +22,7 @@ public static class ShotAttack
             float bulletDirectionAngle = angleBetweenBullets * i;
 
             Vector2 bullletDirection = aimDirection.Rotate(bulletDirectionAngle);
-            SimpleShot(origin, bullletDirection * settings.BulletSpeed);
+            SimpleShot(origin, bullletDirection * settings.BulletSpeed, settings.GrowOnSpawn);
         }
     }
 }

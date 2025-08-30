@@ -130,6 +130,8 @@ GameObject:
   - component: {fileID: 375034726}
   - component: {fileID: 375034725}
   - component: {fileID: 375034724}
+  - component: {fileID: 375034727}
+  - component: {fileID: 375034728}
   m_Layer: 0
   m_Name: Raumschiff_67
   m_TagString: Untagged
@@ -223,6 +225,32 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &375034727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 375034723}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232695cea5f80dd4e8b0fc0747df69ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RadialShotWeapon
+  _shotPattern: {fileID: 11400000, guid: 620cf66790085ff46ade190fddbfd702, type: 2}
+--- !u!114 &375034728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 375034723}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 232695cea5f80dd4e8b0fc0747df69ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RadialShotWeapon
+  _shotPattern: {fileID: 11400000, guid: 5999bf3295def194d9de89114117abde, type: 2}
 --- !u!1 &471304704
 GameObject:
   m_ObjectHideFlags: 0
@@ -622,8 +650,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -247, y: -189}
-  m_SizeDelta: {x: 196.3268, y: 50}
+  m_AnchoredPosition: {x: -310, y: -229}
+  m_SizeDelta: {x: 219.5778, y: 42.1035}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1810745313
 MonoBehaviour:
@@ -672,8 +700,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 25
-  m_fontSizeBase: 25
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -710,7 +738,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 1.4634705, y: 0, z: -0.53970337, w: 17.561499}
+  m_margin: {x: 1.4634705, y: 0, z: -0.53970337, w: 0.45230865}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -808,8 +836,8 @@ Transform:
   m_GameObject: {fileID: 2080946505}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 370.1629, y: 219.933, z: 0}
-  m_LocalScale: {x: 0.42601752, y: 0.25686446, z: 1}
+  m_LocalPosition: {x: 370.0952, y: 219.9556, z: 0}
+  m_LocalScale: {x: 0.49766752, y: 0.25796896, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}

@@ -13,4 +13,7 @@ public class RadialShotSettings
     [Header("Offsets")]
     [Range(-1f, 1f)]public float PhaseOffset = 0f;
     [Range(-180f, 180f)]public float AngleOffset = 0f;
+
+    [Header("Custom Behavior")]
+    public bool GrowOnSpawn = false;
 }

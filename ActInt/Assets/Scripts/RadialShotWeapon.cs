@@ -37,7 +37,7 @@ public class RadialShotWeapon : MonoBehaviour
                     aimDirection = transform.up;
                 }
 
-                ShotAttack.RadialShot(center, aimDirection, pattern.PatternSettings[i]);
+                ShotAttack.RadialShot(center, aimDirection, settings);
                 yield return new WaitForSeconds(pattern.PatternSettings[i].CooldownAfterShot);
             }
             

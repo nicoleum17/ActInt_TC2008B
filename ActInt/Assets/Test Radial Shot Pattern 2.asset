@@ -12,10 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a47975c534f77c4c80e244cfcfc237b, type: 3}
   m_Name: Test Radial Shot Pattern 2
   m_EditorClassIdentifier: Assembly-CSharp::RadialShotPattern
-  Repetitions: 200
+  Repetitions: 475
   StartWait: 10
-  EndWait: 1
+  EndWait: 20
   PatternSettings:
   - NumberOfBullets: 3
-    BulletSpeed: 10
-    CooldownAfterShot: 0.01
+    BulletSpeed: 7
+    CooldownAfterShot: 0.02
+    Spiral: 10
+    PhaseOffset: 0
+    AngleOffset: 0
+    GrowOnSpawn: 0

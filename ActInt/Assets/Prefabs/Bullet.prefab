@@ -105,6 +105,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Bullet
   Velocity: {x: -100, y: 0}
+  IsGrowing: 1
 --- !u!50 &82908440588407613
 Rigidbody2D:
   serializedVersion: 5
