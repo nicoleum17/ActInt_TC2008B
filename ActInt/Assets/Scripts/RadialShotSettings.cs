@@ -8,7 +8,7 @@ public class RadialShotSettings
     public int NumberOfBullets = 5;
     public float BulletSpeed = 10f;
     public float CooldownAfterShot;
-    public int Incremento = 0;
+    public int Spiral = 0;
 
     [Header("Offsets")]
     [Range(-1f, 1f)]public float PhaseOffset = 0f;

@@ -22,11 +22,21 @@ public class RadialShotWeapon : MonoBehaviour
 
         yield return new WaitForSeconds(pattern.StartWait);
 
-        while(lap < pattern.Repetitions){
-            float angleOffset = lap * 10;
-            Vector2 aimDirection = Quaternion.Euler(0, 0, angleOffset) * Vector2.up;
+        while(lap < pattern.Repetitions){            
 
             for(int i = 0; i < pattern.PatternSettings.Length; i++){
+                RadialShotSettings settings = pattern.PatternSettings[i];
+
+                Vector2 aimDirection;
+
+                if (settings.Spiral != 0){
+                    float angleOffset = lap * settings.Spiral;
+                    aimDirection = Quaternion.Euler(0, 0, angleOffset) * Vector2.up;
+                }
+                else{
+                    aimDirection = transform.up;
+                }
+
                 ShotAttack.RadialShot(center, aimDirection, pattern.PatternSettings[i]);
                 yield return new WaitForSeconds(pattern.PatternSettings[i].CooldownAfterShot);
             }
