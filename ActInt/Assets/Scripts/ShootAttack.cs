@@ -12,7 +12,12 @@ public static class ShotAttack
     (Vector2 origin, Vector2 aimDirection, RadialShotSettings settings){
         float angleBetweenBullets = 360f / settings.NumberOfBullets;
 
+        if(settings.AngleOffset != 0f || settings.PhaseOffset != 0f){
+            aimDirection = aimDirection.Rotate(settings.AngleOffset + (settings.PhaseOffset * angleBetweenBullets));
+        }
+
         for(int i = 0; i < settings.NumberOfBullets; i++){
+            
             float bulletDirectionAngle = angleBetweenBullets * i;
 
             Vector2 bullletDirection = aimDirection.Rotate(bulletDirectionAngle);

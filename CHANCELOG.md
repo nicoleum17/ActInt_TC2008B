@@ -15,3 +15,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Level added to ReadMe (29/08/2025).
 - Fix .gitignore and update changelog/readme
 - Get new scene and guns counter on screen (29/08/2025).
+- Possible spiral pattern added (29/08/2025).
